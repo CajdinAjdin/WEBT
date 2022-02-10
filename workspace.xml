@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d30bd794-ec6b-46ac-87c0-7e863d1f00f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/scripts/scripts.ts" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/styles.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="ProjectId" id="1qYibr8cOJsQwcaunXc3RbpvevV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="C:\Users\NITRO\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\211.7442.26\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NITRO\Desktop\AnimeRunningGame\img\Projectiles" />
+      <recent name="C:\Users\NITRO\Desktop\AnimeRunningGame\img" />
+      <recent name="C:\Users\NITRO\Desktop\AnimeRunningGame\build" />
+      <recent name="C:\Users\NITRO\Desktop\AnimeRunningGame\src\scripts" />
+      <recent name="C:\Users\NITRO\Desktop\AnimeRunningGame\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AnimeRunningGame/src/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="tes.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AnimeRunningGame/src/tes.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.tes.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d30bd794-ec6b-46ac-87c0-7e863d1f00f2" name="Default Changelist" comment="" />
+      <created>1617262998962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617262998962</updated>
+      <workItem from="1617263000055" duration="1277000" />
+      <workItem from="1617264352560" duration="1316000" />
+      <workItem from="1617695978456" duration="199000" />
+      <workItem from="1618403568991" duration="35000" />
+      <workItem from="1618403616041" duration="4000" />
+      <workItem from="1618403723354" duration="10000" />
+      <workItem from="1618418577723" duration="3902000" />
+      <workItem from="1618577308055" duration="3108000" />
+      <workItem from="1618666211225" duration="13000" />
+      <workItem from="1618666340433" duration="12000" />
+      <workItem from="1618830686943" duration="10000" />
+      <workItem from="1618905481183" duration="14000" />
+      <workItem from="1618905807342" duration="10000" />
+      <workItem from="1620115960215" duration="11948000" />
+      <workItem from="1620146790200" duration="297000" />
+      <workItem from="1620978106086" duration="3132000" />
+      <workItem from="1621000068896" duration="3972000" />
+      <workItem from="1621005435384" duration="209000" />
+      <workItem from="1621016477639" duration="1736000" />
+      <workItem from="1621323103002" duration="2847000" />
+      <workItem from="1621335085046" duration="1427000" />
+      <workItem from="1621337535191" duration="1377000" />
+      <workItem from="1621339267973" duration="3813000" />
+      <workItem from="1621343704440" duration="26000" />
+      <workItem from="1621421674545" duration="182000" />
+      <workItem from="1621940193852" duration="2438000" />
+      <workItem from="1621947418642" duration="1723000" />
+      <workItem from="1622544865975" duration="2493000" />
+      <workItem from="1622711746749" duration="3000" />
+      <workItem from="1622711766355" duration="6484000" />
+      <workItem from="1622916513742" duration="615000" />
+      <workItem from="1623073983057" duration="5158000" />
+      <workItem from="1623132220687" duration="5613000" />
+      <workItem from="1623149209566" duration="6859000" />
+      <workItem from="1623157569980" duration="1046000" />
+      <workItem from="1623487915971" duration="1248000" />
+      <workItem from="1623679618379" duration="5082000" />
+      <workItem from="1623734140943" duration="5515000" />
+      <workItem from="1623741584559" duration="405000" />
+      <workItem from="1623743167233" duration="546000" />
+      <workItem from="1624085897500" duration="8160000" />
+      <workItem from="1624175463461" duration="2978000" />
+      <workItem from="1624201067496" duration="2661000" />
+      <workItem from="1624255810224" duration="12465000" />
+      <workItem from="1624282233552" duration="16355000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/scripts/scripts.js" />
+      </list>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
