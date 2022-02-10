@@ -1,0 +1,126 @@
+body
+{
+    background-image: url("../img/Background/ultimatebackground.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 1000px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+#first{
+    float: left;
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background: url("../img/narutobackblurry.png");
+    border: 5px solid black;
+    transition-duration: 0.4s;
+}
+
+#second{
+    float: left;
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background: url("../img/gokubackblurry.png");
+    border: 5px solid black;
+    transition-duration: 0.4s;
+}
+
+#third{
+    float: left;
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background: url("../img/luffybackblurry.png");
+    border: 5px solid black;
+    transition-duration: 0.4s;
+}
+
+#fourth{
+    float: left;
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background: url("../img/yohback.png");
+    border: 5px solid black;
+    transition-duration: 0.4s;
+}
+
+#fifth{
+    float: left;
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background: url("../img/ichigobackblurry.png");
+    border: 5px solid black;
+    transition-duration: 0.4s;
+}
+
+#sixth{
+    float: left;
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background: url("../img/yugibackblurry.png");
+    border: 5px solid black;
+    transition-duration: 0.4s;
+}
+
+#seventh{
+    float: left;
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background: url("../img/jotarobackblurry.png");
+    border: 5px solid black;
+    transition-duration: 0.4s;
+}
+
+#eighth{
+    float: left;
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    border: none;
+    transition-duration: 0.4s;
+}
+
+#ninth{
+    float: left;
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    border: none;
+    transition-duration: 0.4s;
+}
+
+#deathbutton{
+    width: 416px;
+    height: 164px;
+    position: absolute;
+    background: transparent;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
